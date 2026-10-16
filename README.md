@@ -33,3 +33,7 @@ python osint.py -d example.com -o report.json
 This project is published for **defensive research, education, and authorized security testing only**.
 Use it exclusively on systems you own or have explicit written permission to assess. The author
 assumes no liability for misuse. See `SECURITY.md` for the disclosure policy.
+
+## License
+
+[MIT](LICENSE)
